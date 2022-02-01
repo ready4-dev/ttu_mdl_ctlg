@@ -6,5 +6,5 @@ authors:
     orcid: https://orcid.org/0000-0001-7407-9194
 title: "ttu_mdl_ctlg: Generate a template utility mapping (transfer to utility) model catalogue"
 version: 0.0.9.1
-doi:10.5281/zenodo.5936870 
+doi: doi:10.5281/zenodo.5936870 
 date-released: 2022-02-01
