@@ -10,7 +10,7 @@ params:
   existing_predrs_ls: !r NULL
   outp_smry_ls: !r NULL
   output_type_1L_chr: HTML
-  rltv_path_to_data_dir_1L_chr: ../Output/F_TS_Mdls
+  rltv_path_to_data_dir_1L_chr: ../../../Output/G_Shareable/Models
   subtitle_1L_chr: "Catalogue of longitudinal models"
   root_dir_1L_chr: ./
   section_type_1L_chr: "#"
