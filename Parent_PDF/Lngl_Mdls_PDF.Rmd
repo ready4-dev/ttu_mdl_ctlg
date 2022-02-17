@@ -11,7 +11,6 @@ output:
 params:
   existing_predrs_ls: !r NULL
   output_type_1L_chr: PDF
-  rltv_path_to_data_dir_1L_chr: ../../../Output/G_Shareable/Models
   subtitle_1L_chr: "Catalogue of longitudinal models"
   root_dir_1L_chr: ./
   section_type_1L_chr: "#"
