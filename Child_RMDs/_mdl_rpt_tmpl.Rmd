@@ -45,7 +45,7 @@ df %>%
 \elandscape
 \newpage
 
-```{r, fig.cap={{plt_nms_chr}}, echo=FALSE, message=F}
+```{r, fig.cap={{plt_nms_chr}}, echo=FALSE, message=F, out.width = "400px"}
 knitr::include_graphics({{paths_to_mdl_plts_chr}})
 ```
 
