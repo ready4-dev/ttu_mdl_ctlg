@@ -11,7 +11,7 @@ output:
 params:
   existing_predrs_ls: !r NULL
   output_type_1L_chr: PDF
-  subtitle_1L_chr: "Catalogue of longitudinal models"
+  subtitle_1L_chr: "Catalogue of models"
   root_dir_1L_chr: ./
   section_type_1L_chr: "#"
   X: NULL
